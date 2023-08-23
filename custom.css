@@ -1,0 +1,17 @@
+.myform .form-label1{
+    position: initial !important;
+    padding-left: 0% !important;
+   
+}
+
+
+.u1{
+    background-image: linear-gradient(120deg,#01b3a7,#182c44);
+}
+.us{
+    font-weight: 800;
+    font-size: 20px;
+}
+.no-padding.section-sm.section-first{
+    padding-top: 20px !important;
+}
